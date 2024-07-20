@@ -1,0 +1,10 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore vector cache directory
+.vector_cache/
+
+# Ignore specific files
+BagOfWords.pt
+vocabulary.pth
+lstm.pt
